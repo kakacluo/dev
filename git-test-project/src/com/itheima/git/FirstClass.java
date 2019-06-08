@@ -21,5 +21,6 @@ public class FirstClass {
     }
     public void test2(){
         System.out.println("hala madrid!!!");
+        System.out.println("hello RealMadrid");
     }
 }
